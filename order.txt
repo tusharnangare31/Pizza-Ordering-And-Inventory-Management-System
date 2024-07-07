@@ -1,0 +1,462 @@
+Name: c2
+Total Price: 20
+--------------------------
+Name: c1
+Total Price: 2500
+--------------------------
+Name: c3
+Total Price: 1
+--------------------------
+Name: Kalpesh
+Total Price: 215
+--------------------------
+Name: Kalpesh
+Total Price: 75
+--------------------------
+Name: Kalpesh
+Total Price: 150
+--------------------------
+Name: kalpesh
+Total Price: 600
+--------------------------
+Name: kalpesh
+Total Price: 240
+--------------------------
+Name: kalpesh
+Total Price: 180
+--------------------------
+Name: kalpesh
+Total Price: 150
+--------------------------
+Name: kalpesh
+Total Price: 45
+--------------------------
+Name: kalpesh
+Total Price: 195
+--------------------------
+Name: kalpesh
+Total Price: 175
+--------------------------
+Name: kalpesh
+Total Price: 60
+--------------------------
+Name: kalpesh
+Total Price: 15
+--------------------------
+Name: kalpesh
+Total Price: 230
+--------------------------
+Name: kalpesh
+Total Price: 100
+--------------------------
+Name: kalpesh
+Total Price: 200
+--------------------------
+Name: kalpesh
+Total Price: 165
+--------------------------
+Name: kalpesh
+Total Price: 90
+--------------------------
+Name: kalpesh
+Total Price: 50
+--------------------------
+Name: kalpesh
+Total Price: 265
+--------------------------
+Name: kalpesh
+Total Price: 295
+--------------------------
+Name: ll
+Total Price: 125
+--------------------------
+Name: 123
+Total Price: 70
+--------------------------
+Name: deepak
+Total Price: 140
+--------------------------
+Name: deepak
+Total Price: 60
+--------------------------
+Name: kalpesh
+Total Price: 100
+--------------------------
+Name: ram
+Total Price: 50
+--------------------------
+Name: kalesh
+Total Price: 40
+--------------------------
+Name: OM
+Total Price: 20
+--------------------------
+Name: rahul
+Total Price: 40
+--------------------------
+Name: sham
+Total Price: 20
+--------------------------
+Name: ram
+Total Price: 40
+--------------------------
+Name: sham
+Total Price: 25
+--------------------------
+Name: sham
+Total Price: 30
+--------------------------
+Name: deepak
+Total Price: 80
+--------------------------
+Name: radha
+Total Price: 180
+--------------------------
+Name: sham
+Total Price: 280
+--------------------------
+Name: sham
+Total Price: 210
+--------------------------
+Name: sham
+Total Price: 100
+--------------------------
+Name: radha
+Total Price: 210
+--------------------------
+Name: ram
+Total Price: 60
+--------------------------
+Name: ram
+Total Price: 60
+--------------------------
+Name: ram
+Total Price: 25
+--------------------------
+Name: ram
+Total Price: 20
+--------------------------
+Name: radhe
+Total Price: 205
+--------------------------
+Name: radha
+Total Price: 320
+--------------------------
+Name: sam
+Total Price: 25
+--------------------------
+Name: sham
+Total Price: 50
+--------------------------
+Name: sham
+Total Price: 30
+--------------------------
+Name: sham
+Total Price: 75
+--------------------------
+Name: sham
+Total Price: 295
+--------------------------
+Name: kalpesh
+Total Price: 460
+--------------------------
+Name: radhe
+Total Price: 265
+--------------------------
+Name: radhe
+Total Price: 90
+--------------------------
+Name: famus
+Total Price: 235
+--------------------------
+Name: ram
+Total Price: 50
+--------------------------
+Name: rahul
+Total Price: 90
+--------------------------
+Name: sahil
+Total Price: 30
+--------------------------
+Name: sahil
+Total Price: 80
+--------------------------
+Name: kalpesh
+Total Price: 20
+--------------------------
+Name: kalpesh
+Total Price: 200
+--------------------------
+Name: kalpesh
+Total Price: 20
+--------------------------
+Name: Deepak bhaiya
+Total Price: 185
+--------------------------
+Name: Deepak bhaiya
+Total Price: 180
+--------------------------
+Name: kalpesh
+Total Price: 25
+--------------------------
+Name: kal
+Total Price: 20
+--------------------------
+Name: kalpesh
+Total Price: 75
+--------------------------
+Name: Ram
+Total Price: 70
+--------------------------
+Name: Soham
+Total Price: 135
+--------------------------
+Name: Rahul
+Total Price: 95
+--------------------------
+Name: Soham
+Total Price: 95
+--------------------------
+Name: Ram
+Total Price: 20
+--------------------------
+Name: Kalpesh
+Total Price: 180
+--------------------------
+Name: kalpesh
+Total Price: 20000
+--------------------------
+Name: Ram
+Total Price: 160
+--------------------------
+Name: Sham
+Total Price: 220
+--------------------------
+Name: Sakshi
+Total Price: 250
+--------------------------
+Name: Priyanka
+Total Price: 220
+--------------------------
+Name: Ashish
+Total Price: 255
+--------------------------
+Name: Rameshwar
+Total Price: 235
+--------------------------
+Name: Sahil
+Total Price: 315
+--------------------------
+Name: Sakshi
+Total Price: 255
+--------------------------
+Name: Priyanka
+Total Price: 420
+--------------------------
+Name: Aditi
+Total Price: 165
+--------------------------
+Name: Yami
+Total Price: 365
+--------------------------
+Name: Kasturi
+Total Price: 190
+--------------------------
+Name: Shoka
+Total Price: 275
+--------------------------
+Name: Gita
+Total Price: 200
+--------------------------
+Name: Aarti
+Total Price: 2515
+--------------------------
+Name: Ganesh
+Total Price: 330
+--------------------------
+Name: Kalpesh
+Total Price: 955
+--------------------------
+Name: Archana
+Total Price: 465
+--------------------------
+Name: Radha
+Total Price: 230
+--------------------------
+Name: Shrusti
+Total Price: 295
+--------------------------
+Name: Teju
+Total Price: 165
+--------------------------
+Name: Shradha
+Total Price: 320
+--------------------------
+Name: Sanika
+Total Price: 190
+--------------------------
+Name: kalpesh
+Total Price: 150
+--------------------------
+Name: deepak
+Total Price: 230
+--------------------------
+Name: Sahil
+Total Price: 220
+--------------------------
+Name: Ram
+Total Price: 195
+--------------------------
+Name: Soniya
+Total Price: 210
+--------------------------
+Name: Monika
+Total Price: 2080
+--------------------------
+Name: Ran
+Total Price: 9120
+--------------------------
+Name: Sonu
+Total Price: 4250
+--------------------------
+Name: Tushar
+Total Price: 355
+--------------------------
+Name: Athrava
+Total Price: 95
+--------------------------
+Name: rahul
+Total Price: 20
+--------------------------
+Name: Kalpesh
+Total Price: 1500
+--------------------------
+Name: Rameshwar
+Total Price: 1950
+--------------------------
+Name: Teju
+Total Price: 1750
+--------------------------
+Name: Radhika
+Total Price: 1650
+--------------------------
+Name: Sahil
+Total Price: 1700
+--------------------------
+Name: Sakshi
+Total Price: 2350
+--------------------------
+Name: Atharva
+Total Price: 1450
+--------------------------
+Name: Aakash
+Total Price: 1300
+--------------------------
+Name: Vivek
+Total Price: 2100
+--------------------------
+Name: Sushti
+Total Price: 500
+--------------------------
+Name: Sahiil
+Total Price: 250
+--------------------------
+Name: Kalpesh
+Total Price: 2050
+--------------------------
+Name: Sahil
+Total Price: 1600
+--------------------------
+Name: Sakshi
+Total Price: 1750
+--------------------------
+Name: Srushti
+Total Price: 1700
+--------------------------
+Name: Teju
+Total Price: 1750
+--------------------------
+Name: Kirti
+Total Price: 1500
+--------------------------
+Name: Yash
+Total Price: 1250
+--------------------------
+Name: Atharv
+Total Price: 1250
+--------------------------
+Name: Sakshi
+Total Price: 850
+--------------------------
+Name: Radha
+Total Price: 1000
+--------------------------
+Name: Aakash
+Total Price: 300
+--------------------------
+Name: Sakshi
+Total Price: 800
+--------------------------
+Name: Radhika
+Total Price: 2000
+--------------------------
+Name: Jayesh
+Total Price: 2650
+--------------------------
+Name: Jayesh
+Total Price: 2250
+--------------------------
+Name: Sadashiv
+Total Price: 3250
+--------------------------
+Name: Sadashiv
+Total Price: 1200
+--------------------------
+Name: kalpesh
+Total Price: 2450
+--------------------------
+Name: kalpesh
+Total Price: 1250
+--------------------------
+Name: ram
+Total Price: 600
+--------------------------
+Name: kalpesh
+Total Price: 60
+--------------------------
+Name: Ran
+Total Price: 280
+--------------------------
+Name: TEjU
+Total Price: 1700
+--------------------------
+Name: kalpesh
+Total Price: 2000
+--------------------------
+Name: Ram
+Total Price: 3300
+--------------------------
+Name: ram
+Total Price: 1500
+--------------------------
+Name: Sham
+Total Price: 1300
+--------------------------
+Name: Radhe
+Total Price: 3400
+--------------------------
+Name: Sahil
+Total Price: 3100
+--------------------------
+Name: ram
+Total Price: 800
+--------------------------
+Name: kalpesh
+Total Price: 3850
+--------------------------
+Name: sonu
+Total Price: 6000
+--------------------------
+Name: Sonu
+Total Price: 23650
+--------------------------
