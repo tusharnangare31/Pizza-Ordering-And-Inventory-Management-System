@@ -1,6 +1,3 @@
-Sure, let's make it more attractive and detailed. Here's an improved version of the documentation for your Inventory Management System:
-
-```md
 # 🍕 Inventory Management System
 
 Welcome to the Inventory Management System for managing pizza inventory and orders efficiently.
